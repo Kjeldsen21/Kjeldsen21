@@ -25,4 +25,4 @@ International Business Management graduate based in Toronto, ON. Open to junior 
 ### Connect With Me:
 [<img align="left" alt="Kjeldsen21 LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
-[LinkedIn]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/kbunagan/)
+[LinkedIn]: https://www.linkedin.com/in/kbunagan/
